@@ -1,0 +1,92 @@
+body {
+    background-image: url('.././src/img/balloons.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+
+    transition: 0.65s ease-in-out;
+}
+
+.nav {
+    /* background-image: url('../src/img/forest.jpg'); */
+    background-color: rgba(255, 255, 255, 0.55);
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+    transition: 0.5s ease-in-out;
+    box-shadow: '2px 11px 9px #000';
+}
+
+.beach-bg {
+    background-image: url('../src/img/beach.jpg');
+    transition: 0.5s ease-in-out;
+
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+}
+
+
+
+
+.moon-bg {
+    background-image: url('../src/img/moon_clouds.jpg');
+    /* background-color: crimson; */
+    transition: 0.5s ease-in-out;
+
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+}
+
+.diamond-bg {
+    background-image: url('../src/img/diamond.jpg');
+    /* background-color: crimson; */
+    transition: 0.5s ease-in-out;
+
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+}
+
+
+.edge-bg {
+    background-image: url('../src/img/edge.jpg');
+    /* background-color: crimson; */
+    transition: 0.5s ease-in-out;
+
+    background-size: cover;
+    background-position: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%;
+    margin: 0;
+}
